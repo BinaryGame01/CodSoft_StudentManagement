@@ -5,7 +5,7 @@ number, grade, and any other relevant details.
 2.Implement a StudentManagementSystem class to manage the collection of students. Include
 methods to add a student, remove a student, search for a student, and display all students.
 
-3. Design the user interface for the Student Management System. This can be a console-based
+3.Design the user interface for the Student Management System. This can be a console-based
 interface or a graphical user interface (GUI) using libraries like Swing or JavaFX.
 
 4.Implement methods to read and write student data to a storage medium, such as a file or a
